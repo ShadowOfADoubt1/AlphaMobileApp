@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AlphaMobileApp</string>
+    <string name="Login">Login</string>
+    <string name="Name">Name</string>
+    <string name="Surname">Surname</string>
+    <string name="Username">Username</string>
+    <string name="Register">Register</string>
+    <string name="Forgot">Forgot Password</string>
+    <string name="Dont">Do not have an account</string>
+    <string name="Exhibitor">Exhibitor</string>
+    <string name="Exhibit">Exhibit</string>
+    <string name="View">View</string>
+    <string name="Bidder">Bidder</string>
+    <string name="Password">Password</string>
+    <string name="RePassword">Re-type Password</string>
+    <string name="Simple">Simple preview image to use</string>
+    <string name="Retry">Retry</string>
+    <string name="Send">Send</string>
+    <string name="Msg">Create message</string>
+</resources>
